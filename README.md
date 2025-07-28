@@ -1,3 +1,7 @@
+# Of course
+
+"Honestly, I find it fascinating to write code in any language, seeing my own logic, and then having the AI add a layer on top of it that helps me improve even more. With AI, I don’t even feel like a junior anymore."
+
 # 📊 Student Grade Calculator
 
 A simple Java console application that calculates the final average grade of a student based on three input scores. This program also determines the student's academic standing: **Approved**, **Recovery**, or **Failed**.
